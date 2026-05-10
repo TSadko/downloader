@@ -1,10 +1,6 @@
-# Downloads
+# Downloaded list :
 
----
-
-## NO FILE DOWNLOADED YET!
-
-Use the download workflows to add files here.
+- [manjaro-xfce-26.0.4-260327-linux618](./manjaro-xfce-26.0.4-260327-linux618)
 
 ---
 
